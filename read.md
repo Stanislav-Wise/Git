@@ -1,5 +1,7 @@
 # READ ME
 
+Let's add some 'To do' algorithm to not forget what to do.
+
 To do: <br>
 1. Fork
 2. Clone
