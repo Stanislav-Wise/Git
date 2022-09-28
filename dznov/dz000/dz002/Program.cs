@@ -1,64 +1,44 @@
-﻿// See https://aka.ms/new-console-template for more information
-
-//Console.Write("введите число ");
-//int[] array = new int[3];
-//Console.WriteLine(array[2]);
-//for (int i = 0; i < 4; i++)
+﻿//Задача 25: Напишите цикл, который принимает на вход два числа (A и B) и возводит число A в натуральную степень B.
+//3, 5 -> 243 (3⁵)
+//2, 4 -> 16
+//Console.Write("Введите число ");
+//int A = Convert.ToInt32(Console.ReadLine());
+//Console.Write("Введите число ");
+//int B = Convert.ToInt32(Console.ReadLine());
+//int C = 2;
+//int D = A * A;
+//while (C < B)
 //{
-  //  Console.WriteLine($"{Math.Pow(array[i], 3)} !");
-//};
+   //D = D * A;
+  // C = C + 1; 
+//}
+//Console.WriteLine(D);
 
+//Задача 27: Напишите программу, которая принимает на вход число и выдаёт сумму цифр в числе.
 
-
-
-//Напишите программу, которая принимает на вход пятизначное число и проверяет, является ли оно палиндромом.
-
-
-//Console.WriteLine("Введите пятизначное число");
-//string number = Console.ReadLine();
-
-  //if (number[0]==number[4] || number[1]==number[3])
-  //{
-  //Console.WriteLine($"число: {number} - палиндром.");
-  //}
- // else 
-  //Console.WriteLine($"число: {number} - не палиндром.");
-
-  // Задача 21: Напишите программу, которая принимает на вход координаты двух точек и находит расстояние между ними в 3D пространстве.
-// A (3,6,8); B (2,1,-7), -> 15.84
-// A (7,-5, 0); B (1,-1,9) -> 11.53
-
-//int x1 = Coordinate("x", "A");
-//int y1 = Coordinate("y", "A");
-//int z1 = Coordinate("z", "A");
-//int x2 = Coordinate("x", "B");
-//int y2 = Coordinate("y", "B");
-//int z2 = Coordinate("z", "B");
-
-//int Coordinate(string coorName, string pointName)
+//Console.Write("Введите число ");
+//int A = Convert.ToInt32(Console.ReadLine());
+//int C = 0;
+//while (A > 0)
 //{
-  //  Console.Write($"Введите координату {coorName} точки {pointName}: ");
-    //return Convert.ToInt16(Console.ReadLine());
+  // int B = A % 10;
+   //A = A / 10;
+    //C = C + B;
 //}
-//double Decision(double x1, double x2, 
-  //              double y1, double y2, 
-    //            double z1, double z2){
-  //return Math.Sqrt(Math.Pow((x2-x1), 2) + 
-    //               Math.Pow((y2-y1), 2) + 
-      //             Math.Pow((z2-z1), 2));
-//}
-//double segmentLength =  Math.Round (Decision(x1, x2, y1, y2, z1, z2), 2 );
+//Console.WriteLine(C);
 
-//Console.WriteLine($"Длина отрезка  {segmentLength}");
+//Задача 29: Напишите программу, которая задаёт массив из 8 элементов и выводит их на экран.
 
-//Задача 23: Напишите программу, которая принимает на вход число (N) и выдаёт таблицу кубов чисел от 1 до N.
+//1, 2, 5, 7, 19 -> [1, 2, 5, 7, 19]
 
-Console.Write("Введите число ");
-int N = Convert.ToInt32(Console.ReadLine());
-int A = 1;
-while (A <= N)
+//6, 1, 33 -> [6, 1, 33]
+
+Console.WriteLine("Массив");
+int[] array = new int[8];
+Random rand = new Random();
+for (int x = 0; x < array.Length; x++)
 {
-    int B = Convert.ToInt32(Math.Pow(A, 3));
-    Console.WriteLine(B);
-    A = A + 1;
-};
+  array[x] = rand.Next(8);
+  Console.WriteLine(array[x]);
+}
+
