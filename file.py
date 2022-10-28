@@ -1,4 +1,5 @@
 print('Hello world')
 
-print('Hello teacher')
+print('Hi teacher')
+
 
