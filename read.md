@@ -1,3 +1,3 @@
 READ ME
 
-Shrek was supposed to be here, but he left:(
+![This is Shrek](https://www.peoples.ru/character/movie/shrek/shrek_4.jpg "Shrek here")
