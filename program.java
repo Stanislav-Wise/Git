@@ -1,61 +1,21 @@
-import java.util.Arrays;
+//import java.util.Arrays;
 import java.util.Scanner;
-import java.util.ArrayList;
-import java.util.List;
+//import java.util.ArrayList;
+//import java.util.List;
+import java.io.IOException;
+//import java.util.Random;
+import java.util.logging.ConsoleHandler;
+//import java.util.logging.FileHandler;
+import java.util.logging.Logger;
+import java.util.logging.SimpleFormatter; 
+import java.util.logging.*;
 
 /**
  * program
  */
-// task1
+// task 2
 public class program {
-    //public static void main(String[] args) {
-        //System.out.printf("Задайте число: ");
-        //Scanner scanner = new Scanner(System.in);
-        //System.out.println("name");
-        //int n = scanner.nextInt();
-
-        //int[] array = {1,2,3,4};
-        //System.out.printf("Треугольное число: %d/n", givemeNumber(n));
-        //scanner.close();
-
-        //System.out.println(Arrays.toString(array));
-    //}
     
-    //public static int givemeNumber(int a) {
-      //  return (a * (a + 1))/2;
-    //}
-//}
-
-//task2
-
-//public static void main(String[] args) {
-  //  System.out.print("Задайте положительное число: ");
-    //Scanner scanner = new Scanner(System.in);
-    
-    //int input = scanner.nextInt();
-    //scanner.close();
-    //List<Integer> primes = new ArrayList<>();
-
-    //for (int i = 2; i <= input; i++) {
-      //  boolean isPrimeNumber = true;
-
-        //for (int j = 2; j < i; j++) {
-          //  if (i % j == 0) {
-            //    isPrimeNumber = false;
-              //  break;
-            //}
-        //}
-
-        //if (isPrimeNumber) {
-          //  primes.add(i);
-        //}
-    //}
-    //System.out.println("Простые числа: " + primes);
-//}
-
-
-//task3
-
 static int scanNumber() {
     Scanner scan = new Scanner(System.in);
     int number = scan.nextInt();
@@ -90,8 +50,18 @@ static int getResult(String opr, int num1, int num2) {
     return result;
 
 }
+ 
+public static void main(String[] args) throws IOException{
+  Logger logger = Logger.getLogger(program.class.getName());
+    ConsoleHandler ch = new ConsoleHandler();
 
-public static void main(String[] args) {
+    logger.addHandler(ch);
+
+    SimpleFormatter sFormatter = new SimpleFormatter();
+    ch.setFormatter(sFormatter);
+   
+   logger.info("test ");
+
     System.out.println("Введите первое число: ");
     int num1 = scanNumber();
     System.out.println("Введите оператор: -, +, *, /");
