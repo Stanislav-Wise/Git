@@ -7,6 +7,8 @@ READ ME
 # git checkout -b addcomment
 
 # Drag new comment
+# git add .
+# git commit -m "drag new comment"
 
 # git push "git push --set-upstream origin addcomment"
 Total 0 (delta 0), reused 0 (delta 0), pack-reused 0
