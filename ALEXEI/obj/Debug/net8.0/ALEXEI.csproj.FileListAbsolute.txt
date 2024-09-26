@@ -1,0 +1,4 @@
+C:\Users\79203\Documents\Git\ALEXEI\obj\Debug\net8.0\ALEXEI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\79203\Documents\Git\ALEXEI\obj\Debug\net8.0\ALEXEI.AssemblyInfoInputs.cache
+C:\Users\79203\Documents\Git\ALEXEI\obj\Debug\net8.0\ALEXEI.AssemblyInfo.cs
+C:\Users\79203\Documents\Git\ALEXEI\obj\Debug\net8.0\ALEXEI.csproj.CoreCompileInputs.cache

@@ -1,0 +1,15 @@
+C:\Users\79203\Documents\Git\Akkerman\bin\Debug\net8.0\Akkerman.exe
+C:\Users\79203\Documents\Git\Akkerman\bin\Debug\net8.0\Akkerman.deps.json
+C:\Users\79203\Documents\Git\Akkerman\bin\Debug\net8.0\Akkerman.runtimeconfig.json
+C:\Users\79203\Documents\Git\Akkerman\bin\Debug\net8.0\Akkerman.dll
+C:\Users\79203\Documents\Git\Akkerman\bin\Debug\net8.0\Akkerman.pdb
+C:\Users\79203\Documents\Git\Akkerman\obj\Debug\net8.0\Akkerman.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\79203\Documents\Git\Akkerman\obj\Debug\net8.0\Akkerman.AssemblyInfoInputs.cache
+C:\Users\79203\Documents\Git\Akkerman\obj\Debug\net8.0\Akkerman.AssemblyInfo.cs
+C:\Users\79203\Documents\Git\Akkerman\obj\Debug\net8.0\Akkerman.csproj.CoreCompileInputs.cache
+C:\Users\79203\Documents\Git\Akkerman\obj\Debug\net8.0\Akkerman.sourcelink.json
+C:\Users\79203\Documents\Git\Akkerman\obj\Debug\net8.0\Akkerman.dll
+C:\Users\79203\Documents\Git\Akkerman\obj\Debug\net8.0\refint\Akkerman.dll
+C:\Users\79203\Documents\Git\Akkerman\obj\Debug\net8.0\Akkerman.pdb
+C:\Users\79203\Documents\Git\Akkerman\obj\Debug\net8.0\Akkerman.genruntimeconfig.cache
+C:\Users\79203\Documents\Git\Akkerman\obj\Debug\net8.0\ref\Akkerman.dll

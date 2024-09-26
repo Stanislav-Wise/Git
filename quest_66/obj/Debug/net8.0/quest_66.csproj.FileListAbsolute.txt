@@ -1,0 +1,5 @@
+C:\Users\79203\Documents\Git\quest_66\obj\Debug\net8.0\quest_66.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\79203\Documents\Git\quest_66\obj\Debug\net8.0\quest_66.AssemblyInfoInputs.cache
+C:\Users\79203\Documents\Git\quest_66\obj\Debug\net8.0\quest_66.AssemblyInfo.cs
+C:\Users\79203\Documents\Git\quest_66\obj\Debug\net8.0\quest_66.csproj.CoreCompileInputs.cache
+C:\Users\79203\Documents\Git\quest_66\obj\Debug\net8.0\quest_66.sourcelink.json

@@ -1,0 +1,6 @@
+C:\Users\79203\Documents\Git\obj\Debug\net6.0\Git.csproj.AssemblyReference.cache
+C:\Users\79203\Documents\Git\obj\Debug\net6.0\Git.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\79203\Documents\Git\obj\Debug\net6.0\Git.AssemblyInfoInputs.cache
+C:\Users\79203\Documents\Git\obj\Debug\net6.0\Git.AssemblyInfo.cs
+C:\Users\79203\Documents\Git\obj\Debug\net6.0\Git.csproj.CoreCompileInputs.cache
+C:\Users\79203\Documents\Git\obj\Debug\net6.0\Git.sourcelink.json
