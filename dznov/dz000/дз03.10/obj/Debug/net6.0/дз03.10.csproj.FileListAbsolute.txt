@@ -1,0 +1,15 @@
+C:\Users\Юрий\Desktop\гит4\Gittsepeleev3\dznov\dz000\дз03.10\bin\Debug\net6.0\дз03.10.exe
+C:\Users\Юрий\Desktop\гит4\Gittsepeleev3\dznov\dz000\дз03.10\bin\Debug\net6.0\дз03.10.deps.json
+C:\Users\Юрий\Desktop\гит4\Gittsepeleev3\dznov\dz000\дз03.10\bin\Debug\net6.0\дз03.10.runtimeconfig.json
+C:\Users\Юрий\Desktop\гит4\Gittsepeleev3\dznov\dz000\дз03.10\bin\Debug\net6.0\дз03.10.dll
+C:\Users\Юрий\Desktop\гит4\Gittsepeleev3\dznov\dz000\дз03.10\bin\Debug\net6.0\дз03.10.pdb
+C:\Users\Юрий\Desktop\гит4\Gittsepeleev3\dznov\dz000\дз03.10\obj\Debug\net6.0\дз03.10.csproj.AssemblyReference.cache
+C:\Users\Юрий\Desktop\гит4\Gittsepeleev3\dznov\dz000\дз03.10\obj\Debug\net6.0\дз03.10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Юрий\Desktop\гит4\Gittsepeleev3\dznov\dz000\дз03.10\obj\Debug\net6.0\дз03.10.AssemblyInfoInputs.cache
+C:\Users\Юрий\Desktop\гит4\Gittsepeleev3\dznov\dz000\дз03.10\obj\Debug\net6.0\дз03.10.AssemblyInfo.cs
+C:\Users\Юрий\Desktop\гит4\Gittsepeleev3\dznov\dz000\дз03.10\obj\Debug\net6.0\дз03.10.csproj.CoreCompileInputs.cache
+C:\Users\Юрий\Desktop\гит4\Gittsepeleev3\dznov\dz000\дз03.10\obj\Debug\net6.0\дз03.10.dll
+C:\Users\Юрий\Desktop\гит4\Gittsepeleev3\dznov\dz000\дз03.10\obj\Debug\net6.0\refint\дз03.10.dll
+C:\Users\Юрий\Desktop\гит4\Gittsepeleev3\dznov\dz000\дз03.10\obj\Debug\net6.0\дз03.10.pdb
+C:\Users\Юрий\Desktop\гит4\Gittsepeleev3\dznov\dz000\дз03.10\obj\Debug\net6.0\дз03.10.genruntimeconfig.cache
+C:\Users\Юрий\Desktop\гит4\Gittsepeleev3\dznov\dz000\дз03.10\obj\Debug\net6.0\ref\дз03.10.dll
